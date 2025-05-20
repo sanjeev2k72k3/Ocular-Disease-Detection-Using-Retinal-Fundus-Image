@@ -123,7 +123,7 @@ The `Model Training.ipynb` implements a hybrid deep learning architecture:
 
 ## Results
 
-The model achieves high accuracy in disease classification with:
+The model achieves high accuracy of 98.3% in disease classification with:
 - Robust feature extraction
 - Effective disease detection
 - Real-time processing capabilities
