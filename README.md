@@ -8,7 +8,7 @@ The project focuses on the detection and classification of ocular diseases using
 
 ## Features
 
-- Advanced image processing pipeline for fundus image enhancement
+- Advanced image processing pipeline for Retinal Fundus Images.
 - Custom Attention U-Net architecture combined with DenseNet201
 - Data augmentation techniques for improved model generalization
 - Comprehensive evaluation metrics and visualization tools
